@@ -67,3 +67,18 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.vcxproj.user
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
